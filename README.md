@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Pavithrakruthika J
 
-<!--
-**pavithrakruthika/pavithrakruthika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 ECE 2025 | Honours in VLSI | Passionate about RTL Design & Digital Logic
 
-Here are some ideas to get you started:
+🔧 Skills: Verilog HDL, FPGA, Xilinx Vivado, Digital Electronics, CMOS, RTL Design  
+💡 Tools: Xilinx ISE, Vivado, ModelSim, EDA Playground  
+📌 Currently building: RTL projects & SystemVerilog testbenches  
+📬 Looking for opportunities in: VLSI, RTL, FPGA, ASIC Verification
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Projects
+
+- 🚦 Traffic Light Controller using Verilog
+- 🥤 Vending Machine FSM (Verilog)
+- 🚨 Soil Communication System for Tunnel Rescue
+- 🌾 Food Grain Storage Monitoring (IoT)
+
+📫 **Reach Me At:**  
+✉️ pavithrakruthika8@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/pavithrakruthika-j-9a8792239)  
